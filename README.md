@@ -6,6 +6,7 @@ In the input, the first line contains 4 space separated integers, N, M, X and Y.
 In the sample input, it is given that we have 5 stations and 4 undirected railway tracks between them. And for this case, the home station is 3 and TEDU station is 5. The next lines give the connections between the stations.
 
 Sample Input:
+
 5 4 3 5
 1 2
 2 3
