@@ -8,9 +8,13 @@ In the sample input, it is given that we have 5 stations and 4 undirected railwa
 Sample Input:
 
 5 4 3 5
+
 1 2
+
 2 3
+
 3 4
+
 4 5
 
 In the output, first line print an integer K, denoting the number of stations you add to the railway tracks. And the next K lines give the new railway tracks which do not decrease the distance between the stations X and Y denote the home station and TEDU station. If there is not any possible new tracks, your program should print -1.
@@ -18,10 +22,16 @@ In the output, first line print an integer K, denoting the number of stations yo
 The output for the above input is as follows. Please check your program with this input as well as the others that you will create. Please note that we may use other input when grading your assignments.
 
 Sample Output:
+
 5
+
 1 3
+
 1 4
+
 1 5
+
 2 5
+
 2 4
 
